@@ -1,0 +1,857 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vert",
+				"vert_in\tVertex * vert_in"
+			],
+			[
+				"update",
+				"update_render_data\tvoid update_render_data(Quad vert_in)"
+			],
+			[
+				"indice",
+				"indices_quad\tconst u32 [6] indices_quad"
+			],
+			[
+				"SDL_GL_SWa",
+				"SDL_GL_SetSwapInterval\tint SDL_GL_SetSwapInterval(int interval)"
+			],
+			[
+				"SDL_GL_Swa",
+				"SDL_GL_SetSwapInterval\tint SDL_GL_SetSwapInterval(int interval)"
+			],
+			[
+				"GL_UNSI",
+				"GL_UNSIGNED_BYTE\tGL_UNSIGNED_BYTE"
+			],
+			[
+				"mouse",
+				"SDL_MouseIsHaptic\tint SDL_MouseIsHaptic()"
+			],
+			[
+				"glBindVerte",
+				"glBindVertexArray\tglBindVertexArray"
+			],
+			[
+				"image",
+				"image_tex\tGLuint image_tex"
+			],
+			[
+				"SDL_setwindow",
+				"SDL_SetWindowSize\tvoid SDL_SetWindowSize(SDL_Window *window, int w, int h)"
+			],
+			[
+				"glTexImage",
+				"glTexImage2D\tvoid glTexImage2D(GLenum target, GLint level, GLint internalformat, GLsizei width, GLsizei height, GLint border, GLenum format, GLenum type, const void *pixels)"
+			],
+			[
+				"gl",
+				"gl_init"
+			],
+			[
+				"sdl",
+				"sdl_init"
+			],
+			[
+				"scre",
+				"screen_height\tint screen_height"
+			],
+			[
+				"scree",
+				"screen_width"
+			],
+			[
+				"SDL_WindowSize",
+				"SDL_GetWindowSize\tvoid SDL_GetWindowSize(SDL_Window *window, int *w, int *h)"
+			],
+			[
+				"ui",
+				"ui_owns_mouse"
+			],
+			[
+				"key",
+				"key_released"
+			],
+			[
+				"key_",
+				"key_pressed"
+			],
+			[
+				"GL_UNSIGNED",
+				"GL_UNSIGNED_SHORT\tGL_UNSIGNED_SHORT"
+			],
+			[
+				"index_data",
+				"index_data_type\tGLenum index_data_type"
+			],
+			[
+				"index",
+				"index_data_type"
+			],
+			[
+				"stdio",
+				"cstdio\tstandard header"
+			],
+			[
+				"GL_ARRAY",
+				"GL_ARRAY_BUFFER\tGL_ARRAY_BUFFER"
+			],
+			[
+				"wh",
+				"wh_uv"
+			],
+			[
+				"mouse_key",
+				"mouse_key_held\tbool [4] mouse_key_held"
+			],
+			[
+				"SDL_BUTTON",
+				"SDL_BUTTON_LEFT\tSDL_BUTTON_LEFT"
+			],
+			[
+				"wd",
+				"width_uv"
+			],
+			[
+				"heig",
+				"height_uv"
+			],
+			[
+				"wid",
+				"width_uv"
+			],
+			[
+				"tex",
+				"tex_coord"
+			],
+			[
+				"fs",
+				"fs_uv_offset"
+			],
+			[
+				"or",
+				"_aligned_offset_recalloc\tvoid * _aligned_offset_recalloc(void *_Block, size_t _Count, size_t _Size, size_t _Alignment, size_t _Offset)"
+			],
+			[
+				"w",
+				"w\tfloat w"
+			],
+			[
+				"shader",
+				"shader-manager"
+			],
+			[
+				"el",
+				"element_count_eql_tex\tu32 element_count_eql_tex"
+			],
+			[
+				"ele",
+				"element_count\tu32 element_count"
+			],
+			[
+				"atlas",
+				"atlasID\tatlasID"
+			],
+			[
+				"text",
+				"texture\ttexture::"
+			],
+			[
+				"elem",
+				"element_count_valid\tbool element_count_valid"
+			],
+			[
+				"element",
+				"element_count"
+			],
+			[
+				"eleme",
+				"element_count_valid"
+			],
+			[
+				"data",
+				"data_count_valid\tbool data_count_valid"
+			],
+			[
+				"glBind",
+				"glBindBuffer\tglBindBuffer"
+			],
+			[
+				"GL_ARRA",
+				"GL_ARRAY_BUFFER\tGL_ARRAY_BUFFER"
+			],
+			[
+				"glVertexAttribPon",
+				"glVertexAttribPointer\tglVertexAttribPointer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 3955,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 241,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/sdl.cpp",
+			"settings":
+			{
+				"buffer_size": 2244,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "run_tree/indexed-triangle.frag",
+			"settings":
+			{
+				"buffer_size": 203,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "unity.cpp",
+			"settings":
+			{
+				"buffer_size": 160,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/shader-indexed-triangle.h",
+			"settings":
+			{
+				"buffer_size": 312,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/shader-indexed-triangle.cpp",
+			"settings":
+			{
+				"buffer_size": 2814,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 38.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"prefere",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 436.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gabri/Desktop/triangle-extractor",
+		"/C/Users/gabri/Desktop/triangle-extractor/include-dir",
+		"/C/Users/gabri/Desktop/triangle-extractor/src"
+	],
+	"file_history":
+	[
+		"/C/Users/gabri/Desktop/triangle-extractor/run_tree/indexed-triangle.vert",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/sdl.h",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/sdl.cpp",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/gl.h",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/gl.cpp",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/Vertex.h",
+		"/C/Users/gabri/Desktop/triangle-extractor/run_tree/indexed-triangle.frag",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/shader-quad.h",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/shader-quad.cpp",
+		"/C/Users/gabri/Desktop/triangle-extractor/run_tree/quad.vert",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/shader-indexed-triangle.h",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/shader-indexed-triangle.cpp",
+		"/C/Users/gabri/Desktop/triangle-extractor/src/shader-base.cpp",
+		"/C/Users/gabri/Desktop/triangle-extractor/unity.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/texture-manager.cpp",
+		"/C/Users/gabri/Desktop/triangle-extractor/include-dir/GL/glew.h",
+		"/C/Users/gabri/Desktop/triangle-extractor/triangle-extractor.sublime-project",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/io.cpp",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/renderer/ui.cpp",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/renderer/ui.h",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/window.h",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/window.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/window.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/ui.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/window.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/main.cpp",
+		"/C/Users/gabri/Desktop/gjk.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/io.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/gl.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/sdl.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/gl.h",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/renderer/gl.h",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/renderer/gl.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/renderer.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/renderer.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/ui.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-indexed-triangle.cpp",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/renderer../window.h",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/renderer/screen_space_effect.h",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/renderer/render_target.h",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/input.h",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/input.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/lib/imgui/imgui_internal.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-indexed-triangle.h",
+		"/D/cemu_1.11.6/settings.bin",
+		"/C/Users/gabri/Desktop/bobanstvo-traveller-e1f9b83a8b63/src/renderer/shader.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/imgui.vert",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-base.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/quad.geom",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-triangle.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-quad.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/imgui.frag",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/quad.vert",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/quad.vs",
+		"/C/Users/gabri/source/repos/blucija/blucija/main.cpp",
+		"/C/Users/gabri/source/repos/blucija/blucija/Graphics.cpp",
+		"/C/Users/gabri/source/repos/blucija/data/shaders/vertex_shader.vert",
+		"/C/Users/gabri/source/repos/blucija/data/shaders/fragment_shader.frag",
+		"/C/Users/gabri/source/repos/blucija/blucija/main_extension.cpp",
+		"/C/Users/gabri/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/gabri/AppData/Roaming/Sublime Text 3/Packages/GL Shader Validator/README.md",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-base.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-manager.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/quad.fs",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/quad.gs",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/sample.fs",
+		"/C/Users/gabri/source/repos/blucija/blucija/Texture.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/Texture.h",
+		"/C/Users/gabri/source/repos/blucija/blucija/GLProgram.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/Vector.h",
+		"/C/Users/gabri/source/repos/blucija/blucija/RenderState.cpp",
+		"/C/Users/gabri/source/repos/blucija/blucija/Renderer.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders/sample.vs",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shaders.cpp",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-manager.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-quad.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/texture-manager.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow-project/shader-triangle.h",
+		"/C/Users/gabri/source/repos/rethrow/include-dir/stb/stb_image.h",
+		"/C/Users/gabri/source/repos/rethrow/rethrow.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"const",
+			"Quad",
+			"vertices",
+			"mouse_pos",
+			"rgba_data",
+			"renderer::",
+			"free",
+			"backend",
+			"sdl::",
+			"SDL",
+			"sdl",
+			"window_handle",
+			"Shut",
+			"SDL_SCANCODE",
+			"SDLK_",
+			"vs_out",
+			".vs",
+			"{",
+			"\t{",
+			"evnt",
+			"key",
+			"key_pressed",
+			")",
+			"void",
+			"ID, name",
+			"))",
+			";",
+			"{",
+			");",
+			"set",
+			"setBool",
+			"\n//",
+			"void",
+			"\n}",
+			"glUniform",
+			"void",
+			"glm::",
+			"Gluint",
+			"name.c_str()",
+			"const char*",
+			"const",
+			"void",
+			"std",
+			"const",
+			"\n{",
+			"0, 0);",
+			"vec4",
+			"fs_tex",
+			"texture",
+			"fs_relative_vertex_uv",
+			"[0]",
+			"gs_",
+			"inline",
+			"return",
+			" }",
+			"};}",
+			"\n}",
+			"inline",
+			"{",
+			"\n{",
+			"inline",
+			"data_count"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rgb_data",
+			"gl::",
+			"sdl",
+			"window::",
+			"the_window",
+			".vert",
+			"event",
+			"tex",
+			"[0].",
+			"gs_in[0]",
+			"element_count"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1343,
+								1343
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.158.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/sdl.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								973
+							]
+						],
+						"settings":
+						{
+							"SL.24.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "run_tree/indexed-triangle.frag",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "unity.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"SL.182.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/shader-indexed-triangle.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"SL.194.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "src/shader-indexed-triangle.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
+							"SL.193.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.20.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "triangle-extractor.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
